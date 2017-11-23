@@ -1,0 +1,42 @@
+{
+  "name": "br-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-jsx": "^4.0.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "install": "^0.10.1",
+    "npm": "^5.5.1",
+    "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "glamor": "^2.20.40",
+    "glamorous": "^4.11.0",
+    "jwt-decode": "^2.2.0",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-select": "^1.0.0-rc.10",
+    "reactstrap": "^5.0.0-alpha.3",
+    "redux": "^3.7.2",
+    "redux-form": "^7.1.2",
+    "redux-pack": "^0.1.5",
+    "redux-thunk": "^2.2.0",
+    "shortid": "^2.2.8",
+    "validator": "^9.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
